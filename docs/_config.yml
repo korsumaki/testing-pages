@@ -1,3 +1,6 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: My Great Page
+description: Web page for testing github pages
